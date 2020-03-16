@@ -1,0 +1,20 @@
+html, body
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	min-height: 100vh;
+	background: rgb(102,106,0);
+	background: linear-gradient(90deg, rgba(102,106,0,1) 0%, rgba(161,133,8,1) 35%, rgba(181,170,5,1) 64%, rgba(208,161,2,1) 100%);
+	display: flex;
+}
+
+.contenedor
+{
+	background-color: #cccf53;
+	margin: auto;
+	padding-top: 1em;
+}
